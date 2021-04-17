@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lt.Project.Web</name>
+    </assembly>
+    <members>
+        <member name="T:Lt.Project.Web.Const">
+            <summary>
+            常量
+            </summary>
+        </member>
+        <member name="F:Lt.Project.Web.Const.SecurityKey">
+            <summary>
+            安全密钥
+            </summary>
+        </member>
+        <member name="F:Lt.Project.Web.Const.Address">
+            <summary>
+            请求地址
+            </summary>
+        </member>
+        <member name="T:Lt.Project.Web.Controllers.AuthController">
+            <summary>
+            权限验证
+            </summary>
+        </member>
+        <member name="M:Lt.Project.Web.Controllers.AuthController.Get(System.String,System.String)">
+            <summary>
+            颁发授权token
+            </summary>
+            <param name="userName">用户名</param>
+            <param name="pwd">密码</param>
+            <returns></returns>
+        </member>
+        <member name="T:Lt.Project.Web.Controllers.HealthController">
+            <summary>
+            Consul健康检查
+            </summary>
+        </member>
+        <member name="M:Lt.Project.Web.Controllers.HealthController.Check">
+            <summary>
+            健康检查
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Lt.Project.Web.Controllers.TestController">
+            <summary>
+            测试
+            </summary>
+        </member>
+        <member name="M:Lt.Project.Web.Controllers.TestController.#ctor(Lt.Project.Domain.IRepository.IRepository{Lt.Project.Domain.TestCore.Entity.Test},Lt.Project.Redis.IRedisCacheManager)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="testRepository"></param>
+        </member>
+        <member name="M:Lt.Project.Web.Controllers.TestController.Success">
+            <summary>
+            返回Success字符串
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lt.Project.Web.Controllers.TestController.NotNeedAuth">
+            <summary>
+            无权限
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lt.Project.Web.Controllers.TestController.NeedAuth">
+            <summary>
+            有权限
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lt.Project.Web.Controllers.TestController.AddTest(Lt.Project.Domain.TestCore.Entity.Test)">
+            <summary>
+            添加测试数据
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lt.Project.Web.Controllers.TestController.Redis(System.String)">
+            <summary>
+            测试redis
+            </summary>
+            <param name="Name"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Lt.Project.Web.Program">
+            <summary>
+            程序入口
+            </summary>
+        </member>
+        <member name="M:Lt.Project.Web.Program.Main(System.String[])">
+            <summary>
+            入口方法
+            </summary>
+            <param name="args"></param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Lt.Project.Web.Program.CreateWebHostBuilder(System.String[])" -->
+        <member name="T:Lt.Project.Web.Startup.Startup">
+            <summary>
+            启动类
+            </summary>
+        </member>
+        <member name="M:Lt.Project.Web.Startup.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:Lt.Project.Web.Startup.Startup.Configuration">
+            <summary>
+            承载注入实现的对象
+            </summary>
+        </member>
+        <member name="P:Lt.Project.Web.Startup.Startup.ApplicationContainer">
+            <summary>
+            Autofac容器
+            </summary>
+        </member>
+        <member name="M:Lt.Project.Web.Startup.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            此方法由运行时调用。使用此方法向容器添加服务
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Lt.Project.Web.Startup.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            此方法由运行时调用。使用此方法配置HTTP请求管道
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+        <member name="T:Lt.Project.Web.Tool.Consul.ConsulConfigurationEx">
+            <summary>
+            Consul扩展类
+            </summary>
+        </member>
+        <member name="M:Lt.Project.Web.Tool.Consul.ConsulConfigurationEx.ConsulRegister(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Configuration 扩展方法ip和端口走的命令窗体控制台， Consul 配置走的是appsettings.json 文件
+            </summary>
+            <param name="configuration"></param>
+        </member>
+    </members>
+</doc>

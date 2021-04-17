@@ -1,0 +1,22 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:62294",
+      "sslPort": 0
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "Lt.Project.Web": {
+      "commandName": "Project",
+      "launchBrowser": true, //是否在浏览器中启动
+      "launchUrl": "swagger", //在浏览器中启动的相对URL
+      "environmentVariables": { //将环境变量设置为键/值对
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}
