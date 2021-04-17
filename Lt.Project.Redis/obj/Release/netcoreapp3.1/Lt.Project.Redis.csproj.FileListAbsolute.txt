@@ -1,0 +1,12 @@
+F:\longProject\Lt.Project\Lt.Project.Redis\bin\Release\netcoreapp3.1\Lt.Project.Redis.deps.json
+F:\longProject\Lt.Project\Lt.Project.Redis\bin\Release\netcoreapp3.1\Lt.Project.Redis.dll
+F:\longProject\Lt.Project\Lt.Project.Redis\bin\Release\netcoreapp3.1\Lt.Project.Redis.pdb
+F:\longProject\Lt.Project\Lt.Project.Redis\bin\Release\netcoreapp3.1\Lt.Project.Common.dll
+F:\longProject\Lt.Project\Lt.Project.Redis\bin\Release\netcoreapp3.1\Lt.Project.Common.pdb
+F:\longProject\Lt.Project\Lt.Project.Redis\obj\Release\netcoreapp3.1\Lt.Project.Redis.csprojAssemblyReference.cache
+F:\longProject\Lt.Project\Lt.Project.Redis\obj\Release\netcoreapp3.1\Lt.Project.Redis.AssemblyInfoInputs.cache
+F:\longProject\Lt.Project\Lt.Project.Redis\obj\Release\netcoreapp3.1\Lt.Project.Redis.AssemblyInfo.cs
+F:\longProject\Lt.Project\Lt.Project.Redis\obj\Release\netcoreapp3.1\Lt.Project.Redis.csproj.CoreCompileInputs.cache
+F:\longProject\Lt.Project\Lt.Project.Redis\obj\Release\netcoreapp3.1\Lt.Project.Redis.csproj.CopyComplete
+F:\longProject\Lt.Project\Lt.Project.Redis\obj\Release\netcoreapp3.1\Lt.Project.Redis.dll
+F:\longProject\Lt.Project\Lt.Project.Redis\obj\Release\netcoreapp3.1\Lt.Project.Redis.pdb

@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <UserSecretsId>3fd62036-aa2d-4f92-ab80-fb0e0ab0d833</UserSecretsId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -37,7 +38,13 @@
     <ProjectReference Include="..\Lt.Project.Redis\Lt.Project.Redis.csproj" />
   </ItemGroup>
 
-  <ProjectExtensions><VisualStudio><UserProperties appsettings_1development_1json__JsonSchema="https://json.schemastore.org/appsettings" appsettings_1production_1json__JsonSchema="https://json.schemastore.org/appsettings" /></VisualStudio></ProjectExtensions>
+  <ItemGroup>
+    <Compile Update="Startup\Startup.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1production_1json__JsonSchema="https://json.schemastore.org/appsettings" /></VisualStudio></ProjectExtensions>
 
 
 </Project>

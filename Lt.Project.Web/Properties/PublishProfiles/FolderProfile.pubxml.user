@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\longProject\Release</_PublishTargetUrl>
+    <History>True|2021-04-17T07:07:37.8906665Z;True|2021-04-17T15:07:11.0151600+08:00;True|2021-04-17T15:04:01.2521163+08:00;False|2021-04-17T15:03:33.7664968+08:00;False|2021-04-17T15:03:19.0294242+08:00;False|2021-04-17T15:02:57.2224981+08:00;False|2021-04-17T15:02:44.5796348+08:00;True|2021-04-17T15:02:10.3480257+08:00;True|2021-04-17T14:48:03.9034003+08:00;True|2021-04-17T14:29:39.3644233+08:00;</History>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,12 @@
+F:\longProject\Lt.Project\Lt.Project.Core\bin\Release\netcoreapp3.1\Lt.Project.Domain.deps.json
+F:\longProject\Lt.Project\Lt.Project.Core\bin\Release\netcoreapp3.1\Lt.Project.Domain.dll
+F:\longProject\Lt.Project\Lt.Project.Core\bin\Release\netcoreapp3.1\Lt.Project.Domain.pdb
+F:\longProject\Lt.Project\Lt.Project.Core\bin\Release\netcoreapp3.1\Lt.Project.Common.dll
+F:\longProject\Lt.Project\Lt.Project.Core\bin\Release\netcoreapp3.1\Lt.Project.Common.pdb
+F:\longProject\Lt.Project\Lt.Project.Core\obj\Release\netcoreapp3.1\Lt.Project.Domain.csprojAssemblyReference.cache
+F:\longProject\Lt.Project\Lt.Project.Core\obj\Release\netcoreapp3.1\Lt.Project.Domain.AssemblyInfoInputs.cache
+F:\longProject\Lt.Project\Lt.Project.Core\obj\Release\netcoreapp3.1\Lt.Project.Domain.AssemblyInfo.cs
+F:\longProject\Lt.Project\Lt.Project.Core\obj\Release\netcoreapp3.1\Lt.Project.Domain.csproj.CoreCompileInputs.cache
+F:\longProject\Lt.Project\Lt.Project.Core\obj\Release\netcoreapp3.1\Lt.Project.Domain.csproj.CopyComplete
+F:\longProject\Lt.Project\Lt.Project.Core\obj\Release\netcoreapp3.1\Lt.Project.Domain.dll
+F:\longProject\Lt.Project\Lt.Project.Core\obj\Release\netcoreapp3.1\Lt.Project.Domain.pdb
