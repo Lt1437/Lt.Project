@@ -11,12 +11,18 @@
   "profiles": {
     "Lt.Project.Web": {
       "commandName": "Project",
-      "launchBrowser": true, //是否在浏览器中启动
-      "launchUrl": "swagger", //在浏览器中启动的相对URL
-      "environmentVariables": { //将环境变量设置为键/值对
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "applicationUrl": "http://localhost:5000"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "publishAllPorts": true
     }
   }
 }

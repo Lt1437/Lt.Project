@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VZ+KPnApcQugM3Wa/9LhD3B44AxYH4REPuT6S5Ij2BS4DJczZzOW/osE9s1Icm62x+YfdCal9a2xQsw1pJOO+w==",
+  "dgSpecHash": "j7O6JXzguMDBv3aL1Z+/nUYPaK6xBjp6pTIq6sqsV9jrErrPUkyd04vOdtsGuDlrO4KR1njQjwjqYUbKaKbeXg==",
   "success": true,
   "projectFilePath": "F:\\longProject\\Lt.Project\\Lt.Project.Web\\Lt.Project.Web.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
